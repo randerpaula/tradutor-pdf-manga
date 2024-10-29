@@ -1,0 +1,7 @@
+OCR - Reconhecimento de caracter Optico
+///////////////////////////////////////////////
+pip install PyPDF2
+pip install opencv-python
+pip install pytesseract
+pip install aspose.words  
+pip install translate
