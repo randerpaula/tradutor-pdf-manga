@@ -3,6 +3,8 @@ from translate import Translator
 from shutil import copyfile
 import aspose.words as aw
 
+#Tradutor de pdf
+
 conteudo = ''
 
 translator= Translator(to_lang="pt")
